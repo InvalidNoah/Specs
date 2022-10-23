@@ -27,10 +27,10 @@ My Computer Specs
  ## Ram
  Arbeitsspeicher
 
-	16,0 GB
+	48,0 GB
 
-	Geschwindigkeit:	3200 MHz
-	Steckplätze verwendet:	2 von 4
+	Geschwindigkeit:	2133 MHz
+	Steckplätze verwendet:	4 von 4
 	Formfaktor:	DIMM
 
 
